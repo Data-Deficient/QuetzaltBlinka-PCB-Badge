@@ -1,0 +1,118 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2024-01-29T17:39:26-06:00*%
+%TF.ProjectId,quetzalblinkamini,71756574-7a61-46c6-926c-696e6b616d69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L1,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2024-01-29 17:39:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMHorizOval*
+0 Thick line with rounded ends*
+0 $1 width*
+0 $2 $3 position (X,Y) of the first rounded end (center of the circle)*
+0 $4 $5 position (X,Y) of the second rounded end (center of the circle)*
+0 Add line between two ends*
+20,1,$1,$2,$3,$4,$5,0*
+0 Add two circle primitives to create the rounded ends*
+1,1,$1,$2,$3*
+1,1,$1,$4,$5*%
+G04 Aperture macros list end*
+%TA.AperFunction,SMDPad,CuDef*%
+%ADD10HorizOval,1.998980X0.128138X0.352056X-0.128138X-0.352056X0*%
+%TD*%
+%TA.AperFunction,SMDPad,CuDef*%
+%ADD11HorizOval,1.016000X-0.477364X0.173746X0.477364X-0.173746X0*%
+%TD*%
+%TA.AperFunction,SMDPad,CuDef*%
+%ADD12C,1.143000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD13R,1.800000X1.800000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD14C,1.800000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,U1,1,PA02_A0_D0*%
+%TO.N,unconnected-(U1-PA02_A0_D0-Pad1)*%
+X178046552Y-76880336D03*
+%TO.P,U1,2,PA4_A1_D1*%
+%TO.N,unconnected-(U1-PA4_A1_D1-Pad2)*%
+X180433371Y-77749067D03*
+%TO.P,U1,3,PA10_A2_D2*%
+%TO.N,unconnected-(U1-PA10_A2_D2-Pad3)*%
+X182820191Y-78617798D03*
+%TO.P,U1,4,PA11_A3_D3*%
+%TO.N,unconnected-(U1-PA11_A3_D3-Pad4)*%
+X185207010Y-79486529D03*
+%TO.P,U1,5,PA8_A4_D4_SDA*%
+%TO.N,unconnected-(U1-PA8_A4_D4_SDA-Pad5)*%
+X187593829Y-80355261D03*
+%TO.P,U1,6,PA9_A5_D5_SCL*%
+%TO.N,unconnected-(U1-PA9_A5_D5_SCL-Pad6)*%
+X189980648Y-81223992D03*
+%TO.P,U1,7,PB08_A6_D6_TX*%
+%TO.N,unconnected-(U1-PB08_A6_D6_TX-Pad7)*%
+X192367468Y-82092723D03*
+%TO.P,U1,8,PB09_A7_D7_RX*%
+%TO.N,unconnected-(U1-PB09_A7_D7_RX-Pad8)*%
+X197896073Y-66903005D03*
+%TO.P,U1,9,PA7_A8_D8_SCK*%
+%TO.N,unconnected-(U1-PA7_A8_D8_SCK-Pad9)*%
+X195509253Y-66034274D03*
+%TO.P,U1,10,PA5_A9_D9_MISO*%
+%TO.N,unconnected-(U1-PA5_A9_D9_MISO-Pad10)*%
+X193122434Y-65165543D03*
+%TO.P,U1,11,PA6_A10_D10_MOSI*%
+%TO.N,unconnected-(U1-PA6_A10_D10_MOSI-Pad11)*%
+X190735615Y-64296812D03*
+%TO.P,U1,12,3V3*%
+%TO.N,unconnected-(U1-3V3-Pad12)*%
+X188348796Y-63428080D03*
+%TO.P,U1,13,GND*%
+%TO.N,unconnected-(U1-GND-Pad13)*%
+X185961976Y-62559349D03*
+%TO.P,U1,14,5V*%
+%TO.N,unconnected-(U1-5V-Pad14)*%
+X183575157Y-61690618D03*
+D11*
+%TO.P,U1,15,5V*%
+%TO.N,unconnected-(U1-5V-Pad15)*%
+X195728898Y-76008603D03*
+%TO.P,U1,16,GND*%
+%TO.N,unconnected-(U1-GND-Pad16)*%
+X196601050Y-73612386D03*
+D12*
+%TO.P,U1,17,PA31_SWDIO*%
+%TO.N,unconnected-(U1-PA31_SWDIO-Pad17)*%
+X179749780Y-70193953D03*
+%TO.P,U1,18,PA30_SWCLK*%
+%TO.N,unconnected-(U1-PA30_SWCLK-Pad18)*%
+X180618511Y-67807134D03*
+%TO.P,U1,19,RESET*%
+%TO.N,unconnected-(U1-RESET-Pad19)*%
+X182136599Y-71062684D03*
+%TO.P,U1,20,GND*%
+%TO.N,unconnected-(U1-GND-Pad20)*%
+X183005330Y-68675865D03*
+%TD*%
+D13*
+%TO.P,D2,1,A1*%
+%TO.N,unconnected-(D2-A1-Pad1)*%
+X188550000Y-61750000D03*
+D14*
+%TO.P,D2,2,A2*%
+%TO.N,unconnected-(D2-A2-Pad2)*%
+X186010000Y-61750000D03*
+%TO.P,D2,3,K*%
+%TO.N,unconnected-(D2-K-Pad3)*%
+X183470000Y-61750000D03*
+%TD*%
+M02*

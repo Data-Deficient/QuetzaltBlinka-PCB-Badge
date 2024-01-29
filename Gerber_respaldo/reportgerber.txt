@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\Usuario\Documents\prueba\Quetzalblinka\quetzalblinkamini\quetzalblinkamini-F_Cu.gbr'.
+Plotted to 'C:\Users\Usuario\Documents\prueba\Quetzalblinka\quetzalblinkamini\quetzalblinkamini-B_Cu.gbr'.
+Plotted to 'C:\Users\Usuario\Documents\prueba\Quetzalblinka\quetzalblinkamini\quetzalblinkamini-F_Paste.gbr'.
+Plotted to 'C:\Users\Usuario\Documents\prueba\Quetzalblinka\quetzalblinkamini\quetzalblinkamini-B_Paste.gbr'.
+Plotted to 'C:\Users\Usuario\Documents\prueba\Quetzalblinka\quetzalblinkamini\quetzalblinkamini-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Usuario\Documents\prueba\Quetzalblinka\quetzalblinkamini\quetzalblinkamini-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Usuario\Documents\prueba\Quetzalblinka\quetzalblinkamini\quetzalblinkamini-F_Mask.gbr'.
+Plotted to 'C:\Users\Usuario\Documents\prueba\Quetzalblinka\quetzalblinkamini\quetzalblinkamini-B_Mask.gbr'.
+Plotted to 'C:\Users\Usuario\Documents\prueba\Quetzalblinka\quetzalblinkamini\quetzalblinkamini-Edge_Cuts.gbr'.
+Archivo de trabajo Gerber 'C:\Users\Usuario\Documents\prueba\Quetzalblinka\quetzalblinkamini\quetzalblinkamini-job.gbrjob' creado.
+Info: Listo.
